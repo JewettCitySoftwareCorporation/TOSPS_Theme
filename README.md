@@ -1,4 +1,4 @@
-[![](https://jewettcitysoftwarecorporation.github.io/TOSPS_Theme/img/Badge-18.png)](https://jewettcitysoftwarecorporation.github.io/TOSPS_Theme/index.html)  [![](https:/jewettcitysoftwarecorporation.github.io/TOSPS_Theme/img/tosps_logo-t.png)](https://jewettcitysoftwarecorporation.github.io/TOSPS_Theme/ScreenShots.html)  
+[![](https://jewettcitysoftwarecorporation.github.io/TOSPS_Theme/img/Badge-18.png)](https://jewettcitysoftwarecorporation.github.io/TOSPS_Theme/index.html)  [![](https://jewettcitysoftwarecorporation.github.io/TOSPS_Theme/img/tosps_logo-t.png)](https://jewettcitysoftwarecorporation.github.io/TOSPS_Theme/ScreenShots.html)  
 
 
 
@@ -25,9 +25,9 @@ $primary-color: [![#0093CA  --  ](https://www.colorhexa.com/0093CA.png)](https:/
 $secondary-color: [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https://www.colorhexa.com/00AEEF) \
 $tertiary-color: [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https://www.colorhexa.com/00AEEF)<br /><br />
 
-$border-color: [![#bbbbbb  --  ](https://www.colorhexa.com/bbbbbb.png)](https://www.colorhexa.com/bbbbbb) !default;\
+$border-color: [![#bbbbbb  --  ](https://www.colorhexa.com/bbbbbb.png)](https://www.colorhexa.com/bbbbbb) !default \
 $link-color: $primary-color !default;\
-$font-color: [![#4a4a4a  --  ](https://www.colorhexa.com/4a4a4a.png)](https://www.colorhexa.com/4a4a4a) !default\
+$font-color: [![#4a4a4a  --  ](https://www.colorhexa.com/4a4a4a.png)](https://www.colorhexa.com/4a4a4a) !default \
 <br />
 
 This color was defined by [http://TOSPS.com](The One Stop Psychotherapy Shop) 
@@ -35,7 +35,7 @@ This color was defined by [http://TOSPS.com](The One Stop Psychotherapy Shop)
 
 ## Project Details:
 ### Theme Demonstration:
-[Theme Implemented @ TOSPS.com](https://TOSPS.com) [![Theme Demo](https://jewettcitysoftwarecorporation.github.io/TOSPS_Theme/img/Badge-18.png)](https://TOSPS.com)
+[Theme Implemented @ TOSPS.com](http://TOSPS.com) [![Theme Demo](https://jewettcitysoftwarecorporation.github.io/TOSPS_Theme/img/Badge-18.png)](https://TOSPS.com)
 
 ### Theme Details:
 [Theme Details](https://jewettcitysoftwarecorporation.github.io/TOSPS_Theme/index.html)

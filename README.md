@@ -28,7 +28,7 @@ $tertiary-color: [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https:
 $border-color: [![#bbbbbb  --  ](https://www.colorhexa.com/bbbbbb.png)](https://www.colorhexa.com/bbbbbb) !default;\
 $link-color: $primary-color !default;\
 $font-color: [![#4a4a4a  --  ](https://www.colorhexa.com/4a4a4a.png)](https://www.colorhexa.com/4a4a4a) !default\
-**#84A3D2;**   [![#84A3D2  --  ](https://www.colorhexa.com/84a3d2.png)](https://www.colorhexa.com/84a3d2)<br /><br />
+<br />
 
 This color was defined by [http://TOSPS.com](The One Stop Psychotherapy Shop) 
 <br /><br />

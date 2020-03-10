@@ -7,7 +7,7 @@ This theme was built using **nvQuickTheme**.  This is a great minimalist DNN (Do
 ### Colors Used: 
 $primary-color: [![#0093CA  --  ](https://www.colorhexa.com/0093CA.png)](https://www.colorhexa.com/0093CA);\
 $secondary-color: [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https://www.colorhexa.com/00AEEF);\
-$tertiary-color: [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https://www.colorhexa.com/00AEEF);\\
+$tertiary-color: [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https://www.colorhexa.com/00AEEF);\ \
 
 
 ## Project Background:
@@ -19,16 +19,16 @@ The team at [jcsc.biz](http://jcsc.biz) has been working in the DNN ecosystem si
 ### Color Choice:
 $light-grey: [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https://www.colorhexa.com/00AEEF) !default;\
 $grey:[![#7d7d7d  --  ](https://www.colorhexa.com/7d7d7d.png)](https://www.colorhexa.com/7d7d7d) !default;\
-$dark-grey: [![#333333  --  ](https://www.colorhexa.com/333333.png)](https://www.colorhexa.com/333333) !default;\\
+$dark-grey: [![#333333  --  ](https://www.colorhexa.com/333333.png)](https://www.colorhexa.com/333333) !default;\ \
 
 $primary-color: [![#0093CA  --  ](https://www.colorhexa.com/0093CA.png)](https://www.colorhexa.com/0093CA);\
 $secondary-color: [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https://www.colorhexa.com/00AEEF);\
-$tertiary-color: [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https://www.colorhexa.com/00AEEF);\\
+$tertiary-color: [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https://www.colorhexa.com/00AEEF);\ \
 
 $border-color: [![#bbbbbb  --  ](https://www.colorhexa.com/bbbbbb.png)](https://www.colorhexa.com/bbbbbb) !default;\
 $link-color: $primary-color !default;\
 $font-color: [![#4a4a4a  --  ](https://www.colorhexa.com/4a4a4a.png)](https://www.colorhexa.com/4a4a4a) !default;\
-**#84A3D2;**   [![#84A3D2  --  ](https://www.colorhexa.com/84a3d2.png)](https://www.colorhexa.com/84a3d2)\
+**#84A3D2;**   [![#84A3D2  --  ](https://www.colorhexa.com/84a3d2.png)](https://www.colorhexa.com/84a3d2)\ \
 
 This color was defined by [http://TOSPS.com](The One Stop Psychotherapy Shop) 
 

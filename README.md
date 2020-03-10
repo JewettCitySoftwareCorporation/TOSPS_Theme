@@ -5,11 +5,11 @@
 This theme was built using **nvQuickTheme**.  This is a great minimalist DNN (DotNetNuke) theme
 
 ### Theme Colors: 
-COLOR NAMME: | COLOR:   
------------- | ------------- 
-$primary-color: | [![#0093CA  --  ](https://www.colorhexa.com/0093CA.png)](https://www.colorhexa.com/0093CA) 
-$secondary-color: | [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https://www.colorhexa.com/00AEEF)
-$tertiary-color: | [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https://www.colorhexa.com/00AEEF)
+COLOR NAMME: | COLOR:  | HEX Value:  
+------------ | ------------- | ------------- 
+$primary-color: | [![#0093CA  --  ](https://www.colorhexa.com/0093CA.png)](https://www.colorhexa.com/0093CA) | #0093CA
+$secondary-color: | [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https://www.colorhexa.com/00AEEF) | #00AEEF
+$tertiary-color: | [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https://www.colorhexa.com/00AEEF) | #00AEEF
 
 
 ## Project Background:
@@ -19,17 +19,17 @@ In an effort to remain current, [TOSPS.com](http://TOSPS.com) needed to upgrade 
 The team at [jcsc.biz](http://jcsc.biz) has been working in the DNN ecosystem since 2006. DotNetNuke(3.7)  Our focus is in building software and other web projects.  From themes to custom built moduels if you use DNN you should remember jcsc.biz is here to provide you and the community results.  Given the great depth of experience over the years, our team has identified so many ways to resolve issues in and improve DNN themes.  From **best practices** to HUGE **performance enhancements**, there have been so many lessons learned.  Now it is time give back to this great community that has provided so much to us.
 
 ### Color Choice:
-COLOR NAMME: | COLOR:   |  OPTIONS:
------------- | ------------- | -------------
-$light-grey: | [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https://www.colorhexa.com/00AEEF) | !default 
-$grey: | [![#7d7d7d  --  ](https://www.colorhexa.com/7d7d7d.png)](https://www.colorhexa.com/7d7d7d) | !default 
-$dark-grey: | [![#333333  --  ](https://www.colorhexa.com/333333.png)](https://www.colorhexa.com/333333) | !default 
-$primary-color: | [![#0093CA  --  ](https://www.colorhexa.com/0093CA.png)](https://www.colorhexa.com/0093CA)  | 
-$secondary-color: | [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https://www.colorhexa.com/00AEEF) | 
-$tertiary-color: | [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https://www.colorhexa.com/00AEEF) | 
-$border-color: | [![#bbbbbb  --  ](https://www.colorhexa.com/bbbbbb.png)](https://www.colorhexa.com/bbbbbb) | !default 
-$link-color: | $primary-color <br /> [![#0093CA  --  ](https://www.colorhexa.com/0093CA.png)](https://www.colorhexa.com/0093CA) | !default
-$font-color: | [![#4a4a4a  --  ](https://www.colorhexa.com/4a4a4a.png)](https://www.colorhexa.com/4a4a4a) | !default 
+COLOR NAMME: | COLOR:   |  OPTIONS:  | HEX Value:  
+------------ | ------------- | ------------- | -------------
+$light-grey: | [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https://www.colorhexa.com/00AEEF) | !default  | #00AEEF
+$grey: | [![#7d7d7d  --  ](https://www.colorhexa.com/7d7d7d.png)](https://www.colorhexa.com/7d7d7d) | !default  | #7d7d7d
+$dark-grey: | [![#333333  --  ](https://www.colorhexa.com/333333.png)](https://www.colorhexa.com/333333) | !default | #333333
+$primary-color: | [![#0093CA  --  ](https://www.colorhexa.com/0093CA.png)](https://www.colorhexa.com/0093CA)  |  | #0093CA
+$secondary-color: | [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https://www.colorhexa.com/00AEEF) |  | #00AEEF
+$tertiary-color: | [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https://www.colorhexa.com/00AEEF) |  | #00AEEF
+$border-color: | [![#bbbbbb  --  ](https://www.colorhexa.com/bbbbbb.png)](https://www.colorhexa.com/bbbbbb) | !default | #bbbbbb
+$link-color: | $primary-color <br /> [![#0093CA  --  ](https://www.colorhexa.com/0093CA.png)](https://www.colorhexa.com/0093CA) | !default | #0093CA
+$font-color: | [![#4a4a4a  --  ](https://www.colorhexa.com/4a4a4a.png)](https://www.colorhexa.com/4a4a4a) | !default | #4a4a4a
 
 
 These colors were defined by [The One Stop Psychotherapy Shop](http://TOSPS.com)

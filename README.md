@@ -28,9 +28,9 @@ $tertiary-color: [![#00AEEF  --  ](https://www.colorhexa.com/00AEEF.png)](https:
 $border-color: [![#bbbbbb  --  ](https://www.colorhexa.com/bbbbbb.png)](https://www.colorhexa.com/bbbbbb) !default \
 $link-color: $primary-color !default;\
 $font-color: [![#4a4a4a  --  ](https://www.colorhexa.com/4a4a4a.png)](https://www.colorhexa.com/4a4a4a) !default \
-<br />
 
-This color was defined by [http://TOSPS.com](The One Stop Psychotherapy Shop) 
+
+These colors were defined by [The One Stop Psychotherapy Shop](http://TOSPS.com)
 <br /><br />
 
 ## Project Details:
